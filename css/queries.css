@@ -93,7 +93,7 @@
   }
 
   .step-number {
-    font-size: 7.4;
+    font-size: 7.4rem;
   }
 
   .meal-content {
@@ -347,7 +347,6 @@
     margin-right: 3.2rem;
   }
 }
-
 @media (max-width: 59em) {
   .no-flexbox-gap .main-nav-list li:not(:last-child) {
     margin-right: 0;
